@@ -1,0 +1,42 @@
+{
+  "name": "unix.js",
+  "description": "A modern and scalable general purpose JavaScript framework!",
+  "version": "0.2.0",
+  "main": "out/index.js",
+  "scripts": {},
+  "keywords": [
+    "javascript",
+    "framework"
+  ],
+  "author": {
+    "name": "UnixLab",
+    "url": "https://unixlab.vercel.app",
+    "email": "unixlab.technology@outlook.com.br"
+  },
+  "repository": {
+    "type": "github",
+    "url": "git+https://github.com/unixlab-tech/unixjs"
+  },
+  "homepage": "https://unixlab.vercel.app/framework",
+  "readme": "https://github.com/unixlab-tech/unixjs#readme",
+  "bugs": {
+    "url": "https://github.com/unixlab-tech/unixjs/issues",
+    "email": "unixlab.technology@outlook.com.br"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.10.5",
+    "eslint": "^8.56.0",
+    "sucrase": "^3.35.0",
+    "typescript": "^5.3.3"
+  }
+}
